@@ -1,7 +1,8 @@
 # PhotoCv
 Homemade little photoshop using OpenCV and OpenFramework
 
-**Language :** C++ (OpenCV)
+**Language :**
+C++ (OpenCV)
 
 **Features** :
 
