@@ -1,9 +1,10 @@
 # PhotoCv
 Homemade little photoshop using OpenCV and OpenFramework
 
-Language : C++ (OpenCV)
+**Language :** C++ (OpenCV)
 
-Features : 
+**Features : 
+
   Rectangle drawing  
   Painting
   Eraser  
@@ -12,3 +13,4 @@ Features :
   Contrast control  
   Brightness control  
   Color correction
+  Brush selection
