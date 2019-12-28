@@ -3,7 +3,7 @@ Homemade little photoshop using OpenCV and OpenFramework
 
 **Language :** C++ (OpenCV)
 
-**Features : **
+**Features** :
 
   Rectangle drawing  
   Painting
